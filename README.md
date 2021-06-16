@@ -12,6 +12,11 @@
 
 Progressive Web Application
 
+- a web application for an upcoming three-day food event
+- application loads very slowly when the client simulates a 4G internet connection using Chrome DevTools
+- turn the app into a PWA
+- PWAs resemble native mobile apps and allow users to interact with the application even when there is no internet connection or cell service.
+
 
 This project is a full-stack application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a blog website where users can post information about their dream pizza, their favorite toppings, comment and answer to each other. Users can create, read, update and delete data about their pizza in the database.
 
