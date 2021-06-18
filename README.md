@@ -18,6 +18,12 @@ Progressive Web Application
 - PWAs resemble native mobile apps and allow users to interact with the application even when there is no internet connection or cell service.
 
 
+ISSUES: 
+* Improve website load time
+* Add offline functionality
+* Allow users to download application as if it were a phone app
+
+
 This project is a full-stack application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a blog website where users can post information about their dream pizza, their favorite toppings, comment and answer to each other. Users can create, read, update and delete data about their pizza in the database.
 
 ## **_Technologies used_**
