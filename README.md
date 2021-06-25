@@ -10,21 +10,7 @@
 
 ## **_Description of the project_**
 
-Progressive Web Application
-
-- a web application for an upcoming three-day food event
-- application loads very slowly when the client simulates a 4G internet connection using Chrome DevTools
-- turn the app into a PWA
-- PWAs resemble native mobile apps and allow users to interact with the application even when there is no internet connection or cell service.
-
-
-ISSUES: 
-* Improve website load time
-* Add offline functionality
-* Allow users to download application as if it were a phone app
-
-
-This project is a full-stack application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a blog website where users can post information about their dream pizza, their favorite toppings, comment and answer to each other. Users can create, read, update and delete data about their pizza in the database.
+This project is a Progressive Web Application for an upcoming three-day food event. The app loads quickly, offers offline functionality and allow users to download the application as if it were a phone app.
 
 ## **_Technologies used_**
 Project is created using:
@@ -33,9 +19,7 @@ Project is created using:
 * Expressjs
 * MongoDB
 * Mongoose
-* Handlebarsjs
 * Heroku
-* dotenv
 
 ## **_Usage_**
 
@@ -45,9 +29,9 @@ Here are some guidelines for installing the project on your local machine in ord
 
 1. Clone or download the repository to your own local machine and run it from your command line.
 
-2. Then, make sure that your repo includes a package.json with the required dependencies. You can create one by running ```npm init``` in your command line.
+2. Then, make sure that your repo includes a package.json with the required dependencies. You can create one by running ```npm init``` in your command line, and ```npm install``` to install the dependencies.
 
-3. Run ```node server.js``` or ```node server``` in your terminal to launch the application.
+3. Run ```node server.js```, ```node server``` or ```npm start``` in your terminal to launch the application.
 
 4. Enjoy and don't hesitate to contribute!
 
