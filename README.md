@@ -17,9 +17,6 @@ Project is created using:
 * JavaScript
 * Nodejs
 * Expressjs
-* MongoDB
-* Mongoose
-* Heroku
 
 ## **_Usage_**
 ![Screen Shot 2021-06-25 at 7 57 36 AM](https://user-images.githubusercontent.com/78329298/123443767-0e2e0700-d58b-11eb-9f0e-2be4fa76fa75.png)
