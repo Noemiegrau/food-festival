@@ -6,11 +6,10 @@
 * [Usage](#Usage)
 * [Installation](#installation)
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
-* [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Description of the project_**
 
-This project is a Progressive Web Application for an upcoming three-day food event. The app loads quickly, offers offline functionality and allow users to download the application as if it were a phone app.
+This project is a Progressive Web Application for an upcoming three-day food event. The app loads quickly, offers offline functionality and allow users to download the application as if it were a phone app. Users can sign up, buy tickets, etc..
 
 ## **_Technologies used_**
 Project is created using:
@@ -22,7 +21,7 @@ Project is created using:
 * Heroku
 
 ## **_Usage_**
-
+![Screen Shot 2021-06-25 at 7 57 36 AM](https://user-images.githubusercontent.com/78329298/123443767-0e2e0700-d58b-11eb-9f0e-2be4fa76fa75.png)
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
@@ -37,5 +36,3 @@ Here are some guidelines for installing the project on your local machine in ord
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/food-festival
-
-## **_Link URL of deployed app to Heroku_**
