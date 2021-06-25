@@ -6,6 +6,7 @@
 * [Usage](#Usage)
 * [Installation](#installation)
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
+* [Link URL to Deployed App](#link-URL-to-Deployed-App)
 
 ## **_Description of the project_**
 
@@ -36,3 +37,6 @@ Here are some guidelines for installing the project on your local machine in ord
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/food-festival
+
+## **_Link URL deployed App_**
+https://noemiegrau.github.io/food-festival/
